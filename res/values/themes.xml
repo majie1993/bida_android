@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources xmlns:android="http://schemas.android.com/apk/res/android">  
+    <style name="Theme.BIDA" parent="Theme.Sherlock.Light">
+        <item name="actionBarStyle">@style/Widget.BIDA.ActionBar</item>  
+        <item name="android:actionBarStyle">@style/Widget.BIDA.ActionBar</item>  
+    </style>   
+      
+    <style name="Widget.BIDA.ActionBar" parent="Widget.Sherlock.ActionBar.Solid">     
+        <item name="background">#F06060</item>
+        <item name="backgroundStacked">#F06060</item>  
+        <item name="backgroundSplit">#F06060</item>
+        <item name="titleTextStyle">@style/Widget.BIDA.ActionBar.Title</item>  
+          
+        <item name="android:background">#F06060</item>
+        <item name="android:backgroundStacked">#F06060</item>
+        <item name="android:backgroundSplit">#F06060</item>
+        <item name="android:titleTextStyle">@style/Widget.BIDA.ActionBar.Title</item>  
+    </style>  
+      
+    <style name="Widget.BIDA.ActionBar.Title" parent="@android:TextAppearance.Holo.Widget.ActionBar.Title">  
+        <item name="android:textColor">#F2EBBF</item>  
+    </style>  
+    
+</resources>  

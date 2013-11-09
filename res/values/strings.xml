@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bida</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="oneself">个人</string>
+    <string name="home">主页</string>
+    <string name="message">动态</string>
+    <string name="bida_mail">答信</string>
+	<string name="settings">设置</string>
+	<string name="share">分享</string>
+	<string name="answer_ques">我要回答</string>
+
+</resources>
